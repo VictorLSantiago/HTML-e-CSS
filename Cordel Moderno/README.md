@@ -1,0 +1,1 @@
+Esse mini-projeto visou colocar em prática todos os meus conhecimentos semânticos com HTML, aplicar algumas propriedades novas com CSS e principalmente aprender a mexer com repositórios GitHub.
